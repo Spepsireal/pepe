@@ -1,0 +1,2 @@
+nombre = "aserredo"
+print(nombre)
