@@ -6,4 +6,4 @@ print(saludo)
 
 mensaje = "este es un mensaje de prueba"
 
-print(mensaje)
+print(mensaje + " jajajaja")
